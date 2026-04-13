@@ -1,0 +1,15 @@
+# Video files (too large for GitHub)
+*.mp4
+*.avi
+
+# Model weights
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env
